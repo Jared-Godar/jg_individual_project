@@ -129,5 +129,6 @@ dmypy.json
 .pyre/
 env.py
 api.py
-training2017.zip/
+training2017.zip
 physionet.org/
+physionet.org
